@@ -1,0 +1,47 @@
+{
+  "name": "ValentinesRoblox",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    },
+
+    "Workspace": {},
+
+    "Lighting": {
+      "$properties": {
+        "Ambient": [0.35, 0.2, 0.25],
+        "Brightness": 1.5,
+        "GlobalShadows": true,
+        "Outlines": false,
+        "Technology": "ShadowMap",
+        "ClockTime": 18,
+        "ColorShift_Top": [1, 0.75, 0.8],
+        "OutdoorAmbient": [0.3, 0.2, 0.25]
+      }
+    },
+
+    "SoundService": {
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}
