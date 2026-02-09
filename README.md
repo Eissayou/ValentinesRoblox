@@ -1,10 +1,7 @@
 # 💕 Valentine's Roblox Game
 
-A Roblox game I built to ask my girlfriend Kyoungmin to be my Valentine. We've been together for 2 years, but she still loves when I ask her every year — so I figured I'd make it memorable this time.
+A Roblox game I built to ask my girlfriend to be my Valentine. We've been together for 2 years, but she still loves when I ask her every year... so I figured I'd make it memorable this time.
 
-## 🎮 What It Is
-
-An interactive experience where her dog Coco delivers the Valentine's message. Walk up to Coco, press E, and go through the dialog to get to the question. If you try to click "No", the button dodges you (and eventually gives up after 12 attempts). Click "Yes" and the whole room turns into a Gangnam Style party.
 
 ## ✨ Features
 
